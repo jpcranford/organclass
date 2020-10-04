@@ -1,4 +1,4 @@
-# starter
+# Starter Guide
 
 1. [Generate with the same files and folders](https://github.com/rundocs/starter/generate) from this repository
 2. Set up your GitHub Pages to source(`/`)
