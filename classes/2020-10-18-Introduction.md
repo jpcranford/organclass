@@ -1,6 +1,6 @@
 ---
 #layout: default
-title: Oct. 31: Introduction
+title: "Oct. 18- Introduction"
 date: 2020-10-18 14:00:00 -0600
 ---
 

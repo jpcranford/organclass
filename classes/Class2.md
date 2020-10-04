@@ -1,7 +1,7 @@
 ---
 #layout: default
 #title:
-date: 2020-11-01 14:00:00 -0600
+date: 2020-10-24 14:00:00 -0600
 ---
 # November 1
 
