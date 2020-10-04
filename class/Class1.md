@@ -1,6 +1,6 @@
 ---
 #layout: default
-#title:
+title: "Oct. 25: Class #1"
 date: 2020-11-01 14:00:00 -0600
 #sort: 2
 ---
