@@ -9,6 +9,7 @@ I’ll be teaching from the instrument as much as possible, and in the vein of a
 * **Question:** What do you want to get out of this class?
 
 Last year’s workshop had a few issues:
+
 	- Too in-depth
 	- Not structured/organized well
 	- Lack of student playing
