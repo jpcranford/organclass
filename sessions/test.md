@@ -22,9 +22,9 @@ Topics have been ordered in importance from “You’ve just been asked to play 
 	2. Practical (30 min.)
 
 ## The Console
-![Simple diagram of organ](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Organ_%28PSF%29.png/640px-Organ_%28PSF%29.png)[^1]
+![Simple diagram of organ](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Organ_%28PSF%29.png/400px-Organ_%28PSF%29.png)[^1]
 - “This is a keyboard”
 - How to sit at the organ bench
 
 ---
-[^1]: Diagram from Wikimedia Commons. [Link :link:](https://commons.wikimedia.org/wiki/File:Organ_%28PSF%29.png)
+[^1]: Diagram from Wikimedia Commons. [Link](https://commons.wikimedia.org/wiki/File:Organ_%28PSF%29.png)
