@@ -1,7 +1,7 @@
-# Organ Terminology
+# Basic Organ Terminology
 > Taken from a handout for BYU's Organ Workshop 2018. Written by Elizabeth Forsyth, adapted for web by J.P. Cranford.
 
-The pipe organ is a wind instrument controlled by one or more keyboards. Electronic organs try to look and sound like the real thing, and much of organ terminology applies to both pipe and electronic instruments.
+The **pipe organ** is a wind instrument controlled by one or more keyboards. Electronic organs try to look and sound like the real thing, and much of organ terminology applies to both pipe and electronic instruments.
 
 Pedalboard
 : The keyboard for your feet. Do not worry, playing with your feet is much easier than it looks.
@@ -40,8 +40,14 @@ or less sound out into the room.
 Other pedals - All 'enclosed' divisions (Swell, Choir) have a pedal controlling the volume. On an electronic organ, there are no rooms full of pipes with shutters to open and close, so frequently the Great is also 'under expression' and there will be a pedal that controls the Great (sometimes the Great AND the Pedal together).
 Generally, the expression pedal on the farthest left will correspond to the lowest manual, and so on, with the one on
 the far right being the crescendo pedal (see below). Remember this when you play the Tabernacle or Conference Center organs.
-Crescendo Pedal - on the far right, this pedal gradually brings on ALL the stops on the organ, regardless of which stops are
-pulled. Should generally not be used in church.
 
+Crescendo Pedal
+: Located on the far right
+: This pedal gradually brings on ALL the stops on the organ, regardless of which stops are pulled. <warning_against_using_in_church>
+
+```note
 #### Sources
-1. Elizabeth Forsyth, "Organ Terminology Boot Camp," handout from BYU Organ Workshop,
+Here are some of
+
+1. Elizabeth Forsyth, "Organ Terminology Boot Camp," handout from BYU Organ Workshop, August 7-10, 2018. PDF<i class="fas fa-external-link-alt"></i>
+```
