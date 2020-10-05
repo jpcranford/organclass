@@ -3,4 +3,4 @@ This is the site where I'll post all the pre-readings for the classes the week b
 
 > *Lose no opportunity of practicing on the organ; there is no other instrument which takes a swifter revenge on anything unclear or sloppy in composition or playing.* - Robert Schumann
 
-Open the sidebar to get started!
+Click a lesson or resource in the sidebar to get started!
