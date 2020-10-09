@@ -8,8 +8,6 @@ Other people's resources
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/15/PlanConsoleOrgue.svg)
 
-![](http://www.ibiblio.org/pipeorgan/Pages/AllPitchLevels.JPG)
-
 ![Pitch length on keyboard](https://upload.wikimedia.org/wikipedia/en/1/18/Organ_keyboard_unision_pitch_layout.png)
 
 ![Simple diagram of organ](https://upload.wikimedia.org/wikipedia/commons/b/b9/Organ_%28PSF%29.png)[^3]
