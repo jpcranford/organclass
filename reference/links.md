@@ -7,6 +7,8 @@ Other people's resources
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NN0gfBjZWOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NN0gfBjZWOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display:block;margin:0px auto;"></iframe>
+
 ## Images
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/15/PlanConsoleOrgue.svg)
