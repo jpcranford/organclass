@@ -3,6 +3,8 @@ Other people's resources
 
 - "A Young Person’s Guide to the Pipe Organ," by the American Guild of Organists ([link](https://www.agohq.org/young-persons-guide/))
 
+- Perfect "old-fashioned"-looking image for page watermark: [link](https://commons.wikimedia.org/wiki/File:PSM_V40_D651_Flue_stop_organ_pipes.jpg)
+
 
 ## Images
 
