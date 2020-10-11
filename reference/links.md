@@ -5,20 +5,11 @@ Other people's resources
 
 - Perfect "old-fashioned"-looking image for page watermark: [link](https://commons.wikimedia.org/wiki/File:PSM_V40_D651_Flue_stop_organ_pipes.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NN0gfBjZWOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Images
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/15/PlanConsoleOrgue.svg)
-
-![Pitch length on keyboard](https://upload.wikimedia.org/wikipedia/en/1/18/Organ_keyboard_unision_pitch_layout.png)
-
-![Simple diagram of organ](https://upload.wikimedia.org/wikipedia/commons/b/b9/Organ_%28PSF%29.png)[^3]
-
-[^3]: https://commons.wikimedia.org/wiki/File:Organ_(PSF).png
-
-![Pipe organ icon](https://upload.wikimedia.org/wikipedia/commons/d/de/Pipe_organ_icon.png)[^2]
-
-[^2]: https://commons.wikimedia.org/wiki/File:Pipe_organ_icon.png
 
 ![Types of organ stops](https://upload.wikimedia.org/wikipedia/commons/9/9c/Types_of_organ_stops.png)[^4]
 
@@ -32,6 +23,8 @@ Other people's resources
 
 ![Pipe length pitches: Mixtures](https://www.agohq.org/wp-content/uploads/2014/09/sound.gif)[^1]
 
+<a title="Jaksmata / Public domain" href="https://commons.wikimedia.org/wiki/File:Organ_Range.svg"><img alt="Organ Range" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Organ_Range.svg/512px-Organ_Range.svg.png"></a>
+
 ![]()
 ![]()
 ![]()
@@ -41,6 +34,10 @@ Other people's resources
 - [Lessons for the New Organist - YouTube](https://www.youtube.com/playlist?list=PLSJ9JGlhsPJuklW5F3yEQSXhpJzPgAJcL)
 - [Online Educational Videos](https://www.agohq.org/online-educational-resources/)
 - [Lessons for the New Organist (arranged by topic)](https://www.agohq.org/lessons-for-the-new-organist-arranged-by-topic/)
+- https://organtutor.byu.edu/content/two-manual-organ-console
+- https://organtutor.byu.edu/content/introduction-organ-console
+- https://organtutor.byu.edu/content/introduction-4
+- https://organtutor.byu.edu/content/large-organ-console
 
 - http://www.ibiblio.org/pipeorgan/Pages/Overview.html
 - http://www.ibiblio.org/pipeorgan/Pages/Glossary.html
