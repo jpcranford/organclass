@@ -1,5 +1,5 @@
 # Organ Terminology Boot Camp
-> Taken from a handout for BYU's Organ Workshop 2018. Written by Elizabeth Forsyth, adapted for web by J.P. Cranford. Original PDF available [here]({{ site.baseurl }}/assets/pdfs/Handout-%20organ%20terminology%20boot%20camp.pdf).
+> Taken from a handout for BYU's Organ Workshop 2018. Written by Elizabeth Forsyth, adapted for web and lightly organized by J.P. Cranford. Original PDF available [here]({{ site.baseurl }}/assets/pdfs/Handout-%20organ%20terminology%20boot%20camp.pdf).
 
 The **pipe organ** is a wind instrument controlled by one or more keyboards. Electronic organs try to look and sound like the real thing, and much of organ terminology applies to both pipe and electronic instruments.
 
@@ -43,6 +43,7 @@ Couplers
 Reversible
 : a reversible can be a piston or a toe stud. One push brings something on, a second push takes it off. Some examples are the Great/Pedal and the Tutti which brings on the entire organ. Remember Tutti Fruity gum? All the fruits.
 
+## At Your Feet
 Swell Pedal
 : This is the thing that resembles a large gas pedal, directly above the pedalboard. In a pipe organ, this opens and closes the "shades" (think vertical blinds) of the swell "box" letting more or less sound out into the room.
 
@@ -52,8 +53,3 @@ Other pedals
 
 Crescendo Pedal
 : on the far right, this pedal gradually brings on ALL the stops on the organ, regardless of which stops are pulled. Should generally not be used in church.
-
-```note
-#### Sources
-1. Elizabeth Forsyth, "Organ Terminology Boot Camp," handout from BYU Organ Workshop, August 7-10, 2018. [PDF]().
-```
