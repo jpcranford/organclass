@@ -1,13 +1,7 @@
 # Other stuff
 Other people's resources
 
-- "A Young Person’s Guide to the Pipe Organ," by the American Guild of Organists ([link](https://www.agohq.org/young-persons-guide/))
-
 - Perfect "old-fashioned"-looking image for page watermark: [link](https://commons.wikimedia.org/wiki/File:PSM_V40_D651_Flue_stop_organ_pipes.jpg)
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NN0gfBjZWOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NN0gfBjZWOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display:block;margin:0px auto;"></iframe>
 
 ## Images
 
@@ -20,8 +14,6 @@ Other people's resources
 ![Console diagram by the AGO](https://www.agohq.org/wp-content/uploads/2014/09/console.jpg)[^1]
 
 [^1]: https://www.agohq.org/young-persons-guide/
-
-![Pipe length pitches: Mixtures](https://www.agohq.org/wp-content/uploads/2015/08/range2-e1439840552201.gif)[^1]
 
 ![Pipe length pitches: Mixtures](https://www.agohq.org/wp-content/uploads/2014/09/sound.gif)[^1]
 
